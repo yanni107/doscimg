@@ -1,7 +1,7 @@
 function FindProxyForURL(url, host) {
     // 定义允许访问的域名列表
     var allowedDomains = [
-        "example.com",
+        "youtube.com",
         "google.com",
         "github.com"
     ];
